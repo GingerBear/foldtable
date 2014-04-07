@@ -51,5 +51,8 @@
 		});
 	  return this;
 	};
+
+	// TODO
+	// dynamically add table header
  
 }( jQuery ));
